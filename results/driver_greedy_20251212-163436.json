@@ -1,0 +1,56 @@
+{
+  "task": "driver",
+  "method": "greedy",
+  "num_human": 12,
+  "num_llm": 48,
+  "history": [
+    {
+      "iteration": 1,
+      "num_queries": 0,
+      "elapsed_sec": 2.5510003566741943,
+      "alignment": -0.17534286141704486
+    },
+    {
+      "iteration": 2,
+      "num_queries": 10,
+      "elapsed_sec": 1566.7514226436615,
+      "alignment": 0.041832915043736915,
+      "avg_log_likelihood": -0.6786606935098728
+    },
+    {
+      "iteration": 3,
+      "num_queries": 20,
+      "elapsed_sec": 1613.2303776741028,
+      "alignment": 0.2406391963212539,
+      "avg_log_likelihood": -0.6819705764928754
+    },
+    {
+      "iteration": 4,
+      "num_queries": 30,
+      "elapsed_sec": 1729.6166546344757,
+      "alignment": 0.6620155493344483,
+      "avg_log_likelihood": -0.6707634651387352
+    },
+    {
+      "iteration": 5,
+      "num_queries": 40,
+      "elapsed_sec": 3645.997389316559,
+      "alignment": 0.28331428903778605,
+      "avg_log_likelihood": -0.6682868357807903
+    },
+    {
+      "iteration": 6,
+      "num_queries": 50,
+      "elapsed_sec": 4118.6007759571075,
+      "alignment": 0.7484833457818021,
+      "avg_log_likelihood": -0.6683462226548804
+    },
+    {
+      "iteration": 7,
+      "num_queries": 60,
+      "elapsed_sec": 4171.163603067398,
+      "alignment": 0.5481656562734464,
+      "avg_log_likelihood": -0.6724512663045356
+    }
+  ]
+}

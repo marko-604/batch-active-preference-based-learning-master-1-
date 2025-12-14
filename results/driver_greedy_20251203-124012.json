@@ -1,0 +1,154 @@
+{
+  "task": "driver",
+  "method": "greedy",
+  "num_human": 15,
+  "num_llm": 185,
+  "history": [
+    {
+      "iteration": 1,
+      "num_queries": 0,
+      "elapsed_sec": 2.5707144737243652,
+      "alignment": 0.43072888574583085
+    },
+    {
+      "iteration": 2,
+      "num_queries": 10,
+      "elapsed_sec": 43.3412926197052,
+      "alignment": 0.00036652252676494415,
+      "avg_log_likelihood": -0.6781423469337466
+    },
+    {
+      "iteration": 3,
+      "num_queries": 20,
+      "elapsed_sec": 80.26785230636597,
+      "alignment": -0.27358450949712954,
+      "avg_log_likelihood": -0.6778958245293836
+    },
+    {
+      "iteration": 4,
+      "num_queries": 30,
+      "elapsed_sec": 117.02000498771667,
+      "alignment": 0.4160960160123956,
+      "avg_log_likelihood": -0.667998695404659
+    },
+    {
+      "iteration": 5,
+      "num_queries": 40,
+      "elapsed_sec": 791.4042224884033,
+      "alignment": 0.42931489479382595,
+      "avg_log_likelihood": -0.670532610073891
+    },
+    {
+      "iteration": 6,
+      "num_queries": 50,
+      "elapsed_sec": 863.369576215744,
+      "alignment": 0.18094914215284005,
+      "avg_log_likelihood": -0.6716303829486876
+    },
+    {
+      "iteration": 7,
+      "num_queries": 60,
+      "elapsed_sec": 915.6821274757385,
+      "alignment": 0.24229261000532024,
+      "avg_log_likelihood": -0.6687447665538073
+    },
+    {
+      "iteration": 8,
+      "num_queries": 70,
+      "elapsed_sec": 1014.6365375518799,
+      "alignment": 0.2501133031151206,
+      "avg_log_likelihood": -0.6706773808819609
+    },
+    {
+      "iteration": 9,
+      "num_queries": 80,
+      "elapsed_sec": 1051.8568587303162,
+      "alignment": 0.16969452599789425,
+      "avg_log_likelihood": -0.6638537190910957
+    },
+    {
+      "iteration": 10,
+      "num_queries": 90,
+      "elapsed_sec": 1118.0540668964386,
+      "alignment": 0.22816009772718232,
+      "avg_log_likelihood": -0.6642225332589491
+    },
+    {
+      "iteration": 11,
+      "num_queries": 100,
+      "elapsed_sec": 1168.1905617713928,
+      "alignment": -0.024673252923021208,
+      "avg_log_likelihood": -0.6680880947510514
+    },
+    {
+      "iteration": 12,
+      "num_queries": 110,
+      "elapsed_sec": 1327.1576771736145,
+      "alignment": 0.1460059109600076,
+      "avg_log_likelihood": -0.6653173171402705
+    },
+    {
+      "iteration": 13,
+      "num_queries": 120,
+      "elapsed_sec": 1376.9287297725677,
+      "alignment": 0.06085377563782782,
+      "avg_log_likelihood": -0.6643011909417595
+    },
+    {
+      "iteration": 14,
+      "num_queries": 130,
+      "elapsed_sec": 1493.7480392456055,
+      "alignment": 0.030204523031143595,
+      "avg_log_likelihood": -0.6660431583605897
+    },
+    {
+      "iteration": 15,
+      "num_queries": 140,
+      "elapsed_sec": 1539.1775708198547,
+      "alignment": 0.12290443321285102,
+      "avg_log_likelihood": -0.6669503739189592
+    },
+    {
+      "iteration": 16,
+      "num_queries": 150,
+      "elapsed_sec": 1596.9459409713745,
+      "alignment": -0.016117679385141605,
+      "avg_log_likelihood": -0.6658993749279942
+    },
+    {
+      "iteration": 17,
+      "num_queries": 160,
+      "elapsed_sec": 1642.9887115955353,
+      "alignment": -0.020707513612440397,
+      "avg_log_likelihood": -0.6642293824183426
+    },
+    {
+      "iteration": 18,
+      "num_queries": 170,
+      "elapsed_sec": 1715.3007879257202,
+      "alignment": -0.09435354877800349,
+      "avg_log_likelihood": -0.6651069373392445
+    },
+    {
+      "iteration": 19,
+      "num_queries": 180,
+      "elapsed_sec": 1795.642081975937,
+      "alignment": -0.058618327201363674,
+      "avg_log_likelihood": -0.6663198364954033
+    },
+    {
+      "iteration": 20,
+      "num_queries": 190,
+      "elapsed_sec": 1910.954524755478,
+      "alignment": -0.04375382450879724,
+      "avg_log_likelihood": -0.6669040939855523
+    },
+    {
+      "iteration": 21,
+      "num_queries": 200,
+      "elapsed_sec": 1948.2987203598022,
+      "alignment": -0.08488879481617696,
+      "avg_log_likelihood": -0.6675091186924375
+    }
+  ]
+}
